@@ -46,14 +46,4 @@ You could also try to start without Python and Pandas basics since I am trying t
 
 I am working with teammates to build a website that hosts tutorials and also provide financial insights, stock recommendation based on the technologies that we learned and taught on the website.
 
-## Acknowledgements
-I want to thank [Preston Pysh](https://www.youtube.com/channel/UCLTdCY-fNXc1GqzIuflK-OQ), [Investopedia](http://investopedia.com/), [StatQuest](https://www.youtube.com/user/joshstarmer) and [Towards Data Science](https://towardsdatascience.com/).
 
-Preston Pysh created a fantastic value investing course on YouTube. I would recommend this course to anyone with an interest in investing and finance.
-
-Investopedia is my initial source of financial knowledge. It offers an easy-to-understand explanation for financial terms.
-StatQuest and Towards Data Science have great tutorials on Machine Learning and Stats.
-
-I benefited a lot from these resources.
-
-If you have any suggestions or feedback, please feel free to leave a comment or email me at sicong.zhao@duke.edu.
